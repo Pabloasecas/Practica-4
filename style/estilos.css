@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.banner-ps {
+    height: 100vh;
+    position: fixed;
+    background-color: blue;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.banner-xb {
+    height: 100vh;
+    position: fixed;
+    background-color: rgb(0, 255, 21);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.banner-pc {
+    height: 100vh;
+    position: fixed;
+    background-color: dimgrey;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.banner-derecho{
+    right: 0;
+}
+.banner-izquierdo{
+    left: 0;
+}
