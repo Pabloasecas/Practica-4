@@ -8,6 +8,7 @@ body {
     position: fixed;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 8%;
 }
 .banner-ps {
     background-color: blue;
@@ -25,7 +26,7 @@ body {
     left: 0;
 }
 .banner img {
-    max-width: 155px;
+    max-width: 100%;
 }
 .button {
     background-color: orange;
