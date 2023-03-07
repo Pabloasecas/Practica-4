@@ -16,7 +16,7 @@ body {
     background-color: rgb(0, 255, 21);
 }
 .banner-steam {
-    background-color: radial-gradient(rgb(0, 49, 139), rgb(0, 132, 255)) ;
+    background: radial-gradient(rgb(0, 49, 139), rgb(0, 132, 255)) ;
 }
 .banner-derecho {
     right: 0;
