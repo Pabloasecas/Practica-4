@@ -68,13 +68,13 @@ body {
 }
 
 .card-xbox {
-    background-color: green;
+    background-color: rgb(157, 255, 157);
 }
 
 .card-play {
-    background-color: blue;
+    background-color: rgb(130, 184, 255);
 }
 
 .card-steam {
-    background-color: aqua;
+    background-color: rgb(131, 216, 255);
 }
