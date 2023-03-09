@@ -85,8 +85,16 @@ header{
     padding: 10px;
 }
 
-header-xbox{
+header.xbox{
     background-color: black;
+}
+
+header.play{
+    background-color: grey;
+}
+
+header.steam{
+    background-color: mediumaquamarine;
 }
 
 header h1{
