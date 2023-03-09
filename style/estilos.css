@@ -71,9 +71,24 @@ body {
 }
 
 .card-play {
-    background-color: rgb(130, 184, 255);
+    background-color: rgb(164, 203, 255);
 }
 
 .card-steam {
     background-color: rgb(131, 216, 255);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+header-xbox{
+    background-color: black;
+}
+
+header h1{
+    font-family: 'Prompt', sans-serif;
 }
