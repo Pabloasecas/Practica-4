@@ -66,6 +66,10 @@ body {
     align-items: center;
 }
 
+.card img{
+    align-items: center;
+}
+
 .card-xbox {
     background-color: rgb(157, 255, 157);
 }
