@@ -49,6 +49,7 @@ body {
     box-shadow: 3px 3px 3px grey;
     margin: 20px;
 }
+
 .container {
     max-width: 75%;
     margin: auto;
@@ -69,12 +70,12 @@ body {
     flex-wrap: wrap;
 }
 
-.card img{
+.card img {
     width: 100%;
     object-fit: cover;
 }
 
-.card-index{
+.card-index {
     background-color: antiquewhite;
     width: 100%;
 }
@@ -91,7 +92,7 @@ body {
     background-color: rgb(131, 216, 255);
 }
 
-header{
+header {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -99,39 +100,39 @@ header{
     text-align: center;
 }
 
-header.index{
+header.index {
     background-color: orangered;
 }
 
-header.xbox{
+header.xbox {
     background-color: black;
     color: rgb(0, 255, 21);
 }
 
-header.play{
+header.play {
     background-color: grey;
 }
 
-header.steam{
+header.steam {
     background-color: mediumaquamarine;
 }
 
-header h1{
+header h1 {
     font-family: 'Prompt', sans-serif;
     font-size: 250%;
 }
 
-table{
+table, th, td {
     border: 5px;
 }
 
-thead{
+thead {
     border: solid blue;
     font-weight: 600;
     border-collapse: collapse;
 }
 
-tbody{
+tbody {
     border: solid blue;
     border-collapse: collapse;
 }
