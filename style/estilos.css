@@ -63,15 +63,15 @@ body {
     box-shadow: 0px 0px 15px gray;
     border-radius: 10px;
     padding: 20px;
-    display: flex;
     margin-top: 40px;
     align-items: center;
+    display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
 }
 
 .card img{
     width: 100%;
+    object-fit: cover;
 }
 
 .card-index{
