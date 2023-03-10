@@ -120,3 +120,12 @@ header h1{
     font-family: 'Prompt', sans-serif;
     font-size: 250%;
 }
+
+thead{
+    border: 1px solid blue;
+    font-weight: 600;
+}
+
+tbody{
+    border: 1px solid blue;
+}
