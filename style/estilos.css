@@ -47,7 +47,7 @@ body {
     cursor: pointer;
     font-size: 16px;
     box-shadow: 3px 3px 3px grey;
-    margin: 10%;
+    margin: 20px;
 }
 .container {
     max-width: 75%;
