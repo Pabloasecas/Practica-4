@@ -50,6 +50,10 @@ body {
     margin: 20px;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .container {
     max-width: 75%;
     margin: auto;
