@@ -54,6 +54,18 @@ a:link {
     text-decoration: none;
 }
 
+a:active {
+    background-color: aliceblue;
+}
+
+a:hover {
+    font-size: 105%;
+}
+
+a:visited {
+    background-color: yellowgreen;
+}
+
 .container {
     max-width: 75%;
     margin: auto;
