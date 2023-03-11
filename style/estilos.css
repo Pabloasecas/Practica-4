@@ -125,12 +125,12 @@ header h1 {
 table,
 th,
 td {
-    border: 3px solid black;
+    border: 3px solid;
     border-collapse: collapse;
 }
 
 thead {
-    border: solid blue;
+    border-color: blue;
     font-weight: 600;
     border-collapse: collapse;
 }
